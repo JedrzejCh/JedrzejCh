@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Jedrzej
+- 👀 I’m interested in Vue.js , Javascript, HTML5, CSS3/ SCSS
+- 🌱 I’m currently learning Typescript
